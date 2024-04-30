@@ -6,7 +6,7 @@
 [![roteiro](https://img.shields.io/badge/roteiro-critical?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/S4-2024/Chomsky/blob/main/Gramatica%20chomsky.pdf)
 </div>
 
-### Objetivo 
+### 📍 Objetivo 
 
 <p>  
  Explicitar os conceitos e aplicações referentes a:
@@ -16,7 +16,7 @@
 - Gramática normativa, descritiva, histórica e comparativa.  
 </p>
 
-### Sobre 
+### 💠 Sobre 
 
 <p> 
 Noam Chomsky era um dos linguistas mais influentes do século XX, que desenvolveu a teoria da gramática gerativa, procurando descrever e analisar a capacidade humana de adquirir e utilizar a linguagem. 
@@ -27,7 +27,7 @@ A teoria da gramática gerativa é fundamental para a linguística moderna, que 
 
 <details>
 
- <summary> <h3>1. Estrutura profunda versus estrutura superficial </h3></summary>
+ <summary> <h3>🔹 Estrutura profunda versus estrutura superficial </h3></summary>
   
 Estrutura profunda: A estrutura profunda é uma representação abstrata da
 gramática subjacente de uma sentença. Ela captura as relações sintáticas e
@@ -44,7 +44,7 @@ aspectos
 
 <details>
 
- <summary> <h3>2. Gramática gerativo-transformacional</h3></summary>
+ <summary> <h3>🔹 Gramática gerativo-transformacional</h3></summary>
  
  O conceito fundamental por trás da Gramática Gerativo-Transformacional é que a
 linguagem humana é regida por regras universais e inatas, que estão enraizadas na
@@ -57,7 +57,7 @@ comum. Essa estrutura profunda é o que a gramática gerativa busca descrever.
 
  <details>
 
- <summary> <h3>3. Gramática Universal </h3></summary>
+ <summary> <h3> 🔹 Gramática Universal </h3></summary>
  
 Segundo Chomsky, a capacidade de adquirir e compreender uma língua está
 enraizada em uma estrutura inata, comum a todos os seres humanos. Essa
@@ -74,7 +74,7 @@ compartilha certas características básicas com todas as outras línguas natura
 
 <details>
 
- <summary> <h3>4. Aquisição da linguagem </h3></summary>
+ <summary> <h3>🔹 Aquisição da linguagem </h3></summary>
  
  Na época de 50, Ferdinand de Saussure propôs que o aprendizado da linguagem
 fosse proporcionado pelo corpo social dos falantes, ou seja, de que a aquisição está
@@ -90,7 +90,7 @@ chamados de gramática universal.
 
 <details>
 
- <summary> <h3> 5. Teoria dos princípios e parâmetros</h3></summary>
+ <summary> <h3>🔹 Teoria dos princípios e parâmetros</h3></summary>
  
  A teoria de princípios e parâmetros propõe que a gramática universal deve ser
 compreendida como um conjunto de regularidades gramaticais universais
