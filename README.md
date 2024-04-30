@@ -1,5 +1,11 @@
 <img src="https://github.com/S4-2024/Chomsky/blob/main/gramatica.png">
 
+<div align="center" >
+
+[![slide](https://img.shields.io/badge/slide-blue?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAGAhVF87nE/QDeeSv-Q6dr9lBiZmDArNg/edit?utm_content=DAGAhVF87nE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![roteiro](https://img.shields.io/badge/roteiro-critical?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/S4-2024/Chomsky/blob/main/Gramatica%20chomsky.pdf)
+</div>
+
 ### Objetivo 
 
 <p>  
@@ -19,8 +25,10 @@ A teoria da gramática gerativa é fundamental para a linguística moderna, que 
 
 ## Pontos chave da teoria da gramática gerativa:
 
- ### 1. Estrutura profunda versus estrutura superficial
- 
+<details>
+
+ <summary> <h3>1. Estrutura profunda versus estrutura superficial </h3></summary>
+  
 Estrutura profunda: A estrutura profunda é uma representação abstrata da
 gramática subjacente de uma sentença. Ela captura as relações sintáticas e
 semânticas básicas de uma frase. A estrutura profunda reflete a maneira como uma
@@ -30,18 +38,27 @@ Estrutura superficial: A estrutura superficial, por outro lado, refere-se à for
 ou superficial de uma sentença, ou seja, como ela é expressa na linguagem falada
 ou escrita. Ela inclui todas as características visíveis ou audíveis de uma sentença,
 como a ordem das palavras, a entonação, o uso de tempos verbais, entre outros
-aspectos.
+aspectos
+</details>
 
- ### 2. Gramática gerativo-transformacional
+
+<details>
+
+ <summary> <h3>2. Gramática gerativo-transformacional</h3></summary>
  
-O conceito fundamental por trás da Gramática Gerativo-Transformacional é que a
+ O conceito fundamental por trás da Gramática Gerativo-Transformacional é que a
 linguagem humana é regida por regras universais e inatas, que estão enraizadas na
 estrutura do cérebro humano. Chomsky argumentou que, embora as línguas
 naturais possam parecer extremamente diversas superficialmente, elas
 compartilham características subjacentes que refletem uma estrutura profunda
 comum. Essa estrutura profunda é o que a gramática gerativa busca descrever.
+</details>
 
-  ### 3. Gramática Universal
+
+ <details>
+
+ <summary> <h3>3. Gramática Universal </h3></summary>
+ 
 Segundo Chomsky, a capacidade de adquirir e compreender uma língua está
 enraizada em uma estrutura inata, comum a todos os seres humanos. Essa
 estrutura é o que ele chama de Gramática Universal. Isso implica que,
@@ -49,12 +66,17 @@ independentemente da língua materna que uma pessoa venha a aprender, ela
 compartilha certas características básicas com todas as outras línguas naturais.
 
 - Recursividade
--  Estrutura Hierárquica 
+- Estrutura Hierárquica 
 - Distinção entre Sintaxe e Semântica 
 - Propriedades universais de ligação (Binding)
+</details>
 
-### 4. Aquisição da linguagem
-Na época de 50, Ferdinand de Saussure propôs que o aprendizado da linguagem
+
+<details>
+
+ <summary> <h3>4. Aquisição da linguagem </h3></summary>
+ 
+ Na época de 50, Ferdinand de Saussure propôs que o aprendizado da linguagem
 fosse proporcionado pelo corpo social dos falantes, ou seja, de que a aquisição está
 ligada à coletividade. Chomsky pensava que a linguagem provinha do mentalismo,
 ou seja, era inata a todo falante e isso era prova da capacidade de evolução do ser
@@ -63,12 +85,17 @@ humano.
 Segundo Chomsky, a aquisição, ou seja, a capacidade de produzir e compreender a
 linguagem vem como resultado de princípios universais da linguagem, que são
 chamados de gramática universal.
+</details>
 
-### 5. Teoria dos princípios e parâmetros
 
-A teoria de princípios e parâmetros propõe que a gramática universal deve ser
+<details>
+
+ <summary> <h3> 5. Teoria dos princípios e parâmetros</h3></summary>
+ 
+ A teoria de princípios e parâmetros propõe que a gramática universal deve ser
 compreendida como um conjunto de regularidades gramaticais universais
 (princípios) e conjuntos de variações linguísticas possíveis (parâmetros).
+
 
 De acordo com a teoria, o primeiro estágio da aquisição de uma linguagem é a
 gramática universal. Nesse estágio, a linguagem é formada por 2 conjuntos de
@@ -78,10 +105,24 @@ assim, essa teoria assume que a gramática universal possui os ativos dos princ�
 da linguagem desde o início da vida de uma pessoa, enquanto seus princípios vão
 sendo desenvolvidos ao logo do tempo, de acordo com a língua e ambiente do
 falante
+</details>
+
 
 </p>
+ 
+<h2 >🧙‍♂️Membros </h2>
+
+  
+[![Gabrielle Soares- 422221763](https://img.shields.io/badge/Gabrielle_Soares-422221763-pink?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/gabriellesote)
+[![Samuel Faria - 42111586](https://img.shields.io/static/v1?label=Samuel+Faria&message=42111586&color=521d7a&style=for-the-badge&logo=github&logoColor=521d7a)]( https://github.com/Samfaria2002)
+[![Lucas Rodrigues - 422222503](https://img.shields.io/badge/Lucas_Rodrigues-422222503-blue?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/LucasRramos)
+[![Gabriel Bernardes - 422222195](https://img.shields.io/static/v1?label=Gabriel+Bernardes&message=422222195&color=0f6103&style=for-the-badge&logo=github&logoColor=0f6103)](https://github.com/Gabber28)
+[![ Anna Clara - 422142003](https://img.shields.io/static/v1?label=+Anna+Clara&message=422142003&color=C683D7&style=for-the-badge&logo=github&logoColor=C683D7)](https://github.com/byasun)
+[![Ryan Freitas -  422137686](https://img.shields.io/badge/Ryan_Freitas-_422137686-2D9596?style=for-the-badge&logo=github&logoColor=ECF4D6)](https://github.com/Rzin-lg)
+  
 
 
+<br>
 
 
 
