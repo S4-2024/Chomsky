@@ -1,6 +1,7 @@
 <img src="https://github.com/S4-2024/Chomsky/blob/main/gramatica.png">
 
 <div align="center" >
+ <h4 align="center"> <em> Professor responsável: André Rodrigues </em></h4>
 
 [![slide](https://img.shields.io/badge/slide-blue?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAGAhVF87nE/QDeeSv-Q6dr9lBiZmDArNg/edit?utm_content=DAGAhVF87nE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [![roteiro](https://img.shields.io/badge/roteiro-critical?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/S4-2024/Chomsky/blob/main/Gramatica%20chomsky.pdf)
